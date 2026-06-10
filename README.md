@@ -1,10 +1,10 @@
-# Hungaroring Display Manager (DMR) - Frontend Showcase
+# Display Manager (DMR) - Frontend Showcase
 
 ![Main Dashboard](images/main.png)
 
 ## 🏁 Project Overview
 
-This program is currently in use at the Hungaroring. I cannot upload the source code due to confidentiality; this repository only showcases the program itself. I developed the frontend part of this project.
+This repository showcases the frontend of the real Display Manager (DMR), currently used at the Hungaroring race track. I was responsible for the frontend development of this project.
 
 This application is a dashboard used to manage the physical LED displays around the track and control what is shown on them. It allows operators to adjust text properties (such as font size) and even upload new custom fonts.
 
@@ -57,3 +57,12 @@ Here is an overview of the frontend directory structure. To ensure maintainabili
 
 
 
+## 📸 Gallery
+
+![Menu Interface](images/menu.png)
+
+![Delete Font Prompt](images/delete_font.png)
+
+![Tablet View](images/tablet.png)
+
+![Mobile Phone View](images/phone.png)
