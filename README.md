@@ -43,11 +43,13 @@ Here is an overview of the frontend directory structure. To ensure maintainabili
   - Uses embedded iframes to render pixel-perfect live previews.
   - Displays exactly what will appear on the physical LED boards at the track.
 
+  ![Live Preview](videos/Preview.gif)
+
 - **Dynamic Styling for the Display Panels**
   - Adjust text sizes, weights, and paddings on the fly.
   - Upload custom font files (`.ttf`, `.otf`) and instantly apply them to the visual preview.
 
-  ![Dynamic Styling Configuration](images/font_settings.png)
+  ![Dynamic Styling Configuration](videos/font_settings.gif)
 
 - **Secure Authentication**
   - Features a dedicated login interface.
@@ -58,6 +60,10 @@ Here is an overview of the frontend directory structure. To ensure maintainabili
 
 
 ## 📸 Gallery
+
+### 🎥 Full App Walkthrough
+
+<video src="videos/walkthrough.mp4" muted autoplay loop controls width="100%"></video>
 
 ![Menu Interface](images/menu.png)
 
