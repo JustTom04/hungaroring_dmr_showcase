@@ -63,7 +63,7 @@ Here is an overview of the frontend directory structure. To ensure maintainabili
 
 ### 🎥 Full App Walkthrough
 
-https://github.com/user-attachments/assets/9f4456f5-83c6-4f4f-80b4-381adbc48aa9
+<video src="https://github.com/user-attachments/assets/9f4456f5-83c6-4f4f-80b4-381adbc48aa9" muted autoplay loop controls width="100%"></video>
 
 
 
