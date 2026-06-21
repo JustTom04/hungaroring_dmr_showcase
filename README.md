@@ -63,7 +63,9 @@ Here is an overview of the frontend directory structure. To ensure maintainabili
 
 ### 🎥 Full App Walkthrough
 
-<video src="videos/walkthrough.mp4" muted autoplay loop controls width="100%"></video>
+https://github.com/user-attachments/assets/9f4456f5-83c6-4f4f-80b4-381adbc48aa9
+
+
 
 ![Menu Interface](images/menu.png)
 
